@@ -12,4 +12,5 @@
 - 3.Create another folder for test images and place some images there for testing purpose.
 
 ## Reference
+- For depth understanding
 https://www.superdatascience.com/blogs/opencv-face-recognition
