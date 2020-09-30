@@ -15,4 +15,4 @@
 - For depth understanding
 https://www.superdatascience.com/blogs/opencv-face-recognition
 
-- @neha01 Thank you Ma'am for your guidance
+
