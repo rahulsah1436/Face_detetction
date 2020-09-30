@@ -1,8 +1,8 @@
 # Face_detetction
 
-**Prerequisites**
-Numpy
-OpenCV
+##Prerequisites
+1.Numpy
+2.OpenCV
 
 ##Before Execution
 
