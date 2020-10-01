@@ -16,7 +16,7 @@ Haar Cascade Classifier needs thousands of images for getting accurate result.
 - For depth understanding
 https://www.superdatascience.com/blogs/opencv-face-recognition
 
-*Thank you bhaiya
+### Thank you bhaiya
 https://github.com/alokssingh
 
 
